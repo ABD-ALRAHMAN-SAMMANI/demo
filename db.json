@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "billsData": [
+    { "billSN": 1, "billNumber": "Post 1" },
+    { "billSN": 2, "billNumber": "Post 2" },
+    { "billSN": 3, "billNumber": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
